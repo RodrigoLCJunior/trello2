@@ -1,7 +1,7 @@
 # trello2
 # Dependencias e Pacotes
 
-BACKEND
+# BACKEND
 Java version 17
 - Spring Web
 - Spring DATA JPA
@@ -9,7 +9,7 @@ Java version 17
 - Spring Security
 - Spring Boot Starter OAuth2
 
-FRONTEND
+# FRONTEND
 Node e React
 -npx create-react-app trello-frontend
 -npm install axios
