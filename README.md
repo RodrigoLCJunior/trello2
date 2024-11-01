@@ -11,9 +11,9 @@ Java version 17
 
 # FRONTEND
 Node e React
--npx create-react-app trello-frontend
--npm install axios
-    - (Para funcionar o front, mude para a pasta trello-frontend no bash cd trello-frontend, para iniciar use o npm start)
+- npx create-react-app trello-frontend
+- npm install axios
+- (Para funcionar o front, mude para a pasta trello-frontend no bash cd trello-frontend, para iniciar use o npm start)
 
 # Getting Started with Create React App
 
